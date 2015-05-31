@@ -33,6 +33,7 @@ import com.database.bb.cinema.utilidades.ScreenProperties;
  * If Google Maps is not installed in the device, it'll ask you if you want to download it.
  * 
  * BlackBerry 5-7 
+ * View
  */
 public final class MapScreen extends PrincipalScreen{
 
