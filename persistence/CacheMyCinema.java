@@ -1,4 +1,4 @@
-package com.database.bb.cinema.persistencia;
+package com.database.bb.cinema.persistence;
 
 import java.util.Hashtable;
 
