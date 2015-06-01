@@ -173,7 +173,6 @@ public class ShowtimeListStyleButtonField extends ListStyleButtonField implement
 			+ ": " + createShowtimeString(shows.getPerformances());
         Vector lines = wrap(lineasHorarios, limitesHorizontales );
         drawn = lines.size();
-        CineMarkMain.log("Tam:: " + drawn + "") ;
         if(drawn > 2)
 			h = (drawn - 1)*fontSmall.getHeight();
         
